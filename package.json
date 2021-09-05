@@ -1,0 +1,11 @@
+{
+  "name": "json2csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusKael/Json2csv-Testing.git",
+  "author": "MatheusKael <matheuskael.silva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^5.0.6"
+  }
+}
